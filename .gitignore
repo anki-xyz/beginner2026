@@ -219,3 +219,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+mnist_mobilenet_20260615_234922.h5
+notebooks/barplot.eps
+notebooks/barplot.pdf
+notebooks/barplot.svg
